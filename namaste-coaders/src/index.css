@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dumb {
+  display: flex;
+  justify-content: center;
+  padding-top: 200px;
+  font-size: 4rem;
+}
+
